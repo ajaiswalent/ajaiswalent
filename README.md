@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajaiswalent
+- 👋 Hi, I’m Aakash Jaiswal
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on Microsoft
